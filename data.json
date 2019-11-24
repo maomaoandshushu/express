@@ -1,0 +1,41 @@
+[
+    {
+        "id": "1",
+        "name": "三国演义12",
+        "author": "罗贯中",
+        "category": "名著",
+        "desc": "一个杀伐纷争的年代",
+        "_locals": {}
+    },
+    {
+        "id": "2",
+        "name": "红楼梦",
+        "author": "曹雪芹",
+        "category": "名著",
+        "desc": "贾宝玉and女孩们",
+        "_locals": {}
+    },
+    {
+        "id": 3,
+        "name": "哈姆雷特",
+        "author": "莎士比亚",
+        "category": "西方文学",
+        "desc": "家庭的纷争",
+        "_locals": {}
+    },
+    {
+        "id": 5,
+        "name": "天龙八部",
+        "author": "金庸",
+        "category": "武侠小说",
+        "desc": "三大英雄"
+    },
+    {
+        "id": "6",
+        "name": "神雕侠侣",
+        "author": "金庸",
+        "category": "武侠小说",
+        "desc": "一对恋人啊",
+        "_locals": {}
+    }
+]
